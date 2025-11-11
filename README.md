@@ -3,11 +3,12 @@
   #### 网络数据采集
   #### 数据库SQL
   #### python(核心)
-  学习笔记：
+  学习笔记： 
+  https://github.com/WuXinbo-bo/Dada_Analysis_Learning/blob/main/Python%20Learning%20Log(WXB).pdf  
+  
 	
   #### 数据处理
-  学习笔记：
-  https://github.com/WuXinbo-bo/Dada_Analysis_Learning/blob/main/数据处理Data%20Treating.md
+  学习笔记：   
 	
   资料参考：
   《Python机器学习手册》https://z-library.sk/book/17953734/57dcc6/python机器学习手册从数据预处理到深度学习.html

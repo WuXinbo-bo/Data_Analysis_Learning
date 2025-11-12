@@ -26,3 +26,4 @@
     
 ### 算法详解
 #### K-最近邻算法（KNN算法）
+https://github.com/WuXinbo-bo/Data_Analysis_Learning/blob/main/k-最近邻算法（KNN）.pdf
